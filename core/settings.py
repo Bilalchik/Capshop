@@ -2,6 +2,7 @@ import os
 from datetime import timedelta
 from pathlib import Path
 import dotenv
+import dj_database_url
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
